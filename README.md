@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 - 📫 Reach me at: **your-email@example.com**
 - ⚡ Fun fact: *I create tech content and temple-based digital platforms!*
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="terminal-coding"/>
-</p>
 
 
 
