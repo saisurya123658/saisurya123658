@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **MERN Stack & AI/ML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and Web Development**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **saisurya6165@gmail.com**
 - ⚡ Fun fact: *I create tech content and temple-based digital platforms!*
 
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
