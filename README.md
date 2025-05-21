@@ -37,13 +37,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### 🧑‍💻 Coding Vibes
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="coding" width="500"/>
-</p>
-
----
 ### 🧑‍💻 Coding Vibes
 
 <p align="center">
