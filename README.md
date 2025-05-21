@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
+### ✨ Eye-Catching 3D Style Visual
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748708-38ec8e3f-7d9e-4e18-bb26-2d7f4ec43249.gif" alt="3D Developer" width="600"/>
+</p>
 
 ### 🛠️ Skills & Tools
 
