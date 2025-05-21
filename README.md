@@ -36,12 +36,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
-### ✨ Eye-Catching 3D Style Visual
+### 🧑‍💻 Coding Vibes
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748708-38ec8e3f-7d9e-4e18-bb26-2d7f4ec43249.gif" alt="3D Developer" width="600"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="coding" width="500"/>
 </p>
-
 ### 🛠️ Skills & Tools
 
 <p align="center">
