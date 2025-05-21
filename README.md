@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ---
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="500" alt="3d-coding-black"/>
+</p>
+
 
 ### 👨‍💻 About Me
 
@@ -28,6 +32,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: *I create tech content and temple-based digital platforms!*
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="terminal-coding"/>
+</p>
+
 
 ### 🧑‍💻 Coding Vibes
 
