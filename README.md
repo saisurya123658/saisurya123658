@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ---
 🧑‍💻 Internships
-🌟 Machine Learning Intern – [Mallikarjuna Infosys]
+
+🌟Machine Learning Intern – [Mallikarjuna Infosys]
+
 Duration: [DEC-2023] – [MAY2024]
 Mode: Remote
 Description:
@@ -58,8 +60,11 @@ Tools/Technologies: Python, NumPy, Pandas, Scikit-learn, Jupyter Notebook
 
 
 💬 NLP Chatbot Intern – [AICTE & EduNet Program]
+
 Duration: [DEC2024] – [JAN2025]
+
 Mode: Remote
+
 Description:
 Built a functional NLP-based chatbot as part of an internship program focused on AI and Green Technology.
 Applied Natural Language Processing techniques using Python, NLTK, and spaCy to process user input and provide relevant responses.
@@ -70,8 +75,11 @@ Gained valuable mentorship and exposure to real-world AI applications.
 
 
 🌐 Web Development Intern – [BLUESTOCK]
+
 Duration: [JUN2025] – [JUL2025]
+
 Location: [Remote]
+
 Description:
 Developed responsive websites using HTML, CSS, JavaScript, and React.js.
 Collaborated with the UI/UX team to improve site design and performance.
