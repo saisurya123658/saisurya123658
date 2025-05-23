@@ -49,13 +49,15 @@ Here are some ideas to get you started:
 🧑‍💻 Internships
 
 🌟Machine Learning Intern – [Mallikarjuna Infosys]
-
 Duration: [DEC-2023] – [MAY2024]
 Mode: Remote
 Description:
 Learned and explored foundational concepts of Machine Learning including supervised and unsupervised learning.
+
 Gained practical exposure to algorithms such as Linear Regression, Decision Trees, and K-Means Clustering.
+
 Participated in team discussions and technical workshops to enhance theoretical knowledge.
+
 Tools/Technologies: Python, NumPy, Pandas, Scikit-learn, Jupyter Notebook
 
 
