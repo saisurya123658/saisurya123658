@@ -45,49 +45,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,java,python,c,cpp,figma,aws" />
 </p>
 
----
-🧑‍💻 Internships
 
-🌟Machine Learning Intern – [Mallikarjuna Infosys]
-
-Duration: [DEC-2023] – [MAY2024]
-Mode: Remote
-Description:
-*Learned and explored foundational concepts of Machine Learning including supervised and unsupervised learning.
-
-*Gained practical exposure to algorithms such as Linear Regression, Decision Trees, and K-Means Clustering.
-
-*Participated in team discussions and technical workshops to enhance theoretical knowledge.
-
-*Tools/Technologies: Python, NumPy, Pandas, Scikit-learn, Jupyter Notebook
-
-
-💬 NLP Chatbot Intern – [AICTE & EduNet Program]
-
-Duration: [DEC2024] – [JAN2025]
-
-Mode: Remote
-
-Description:
-Built a functional NLP-based chatbot as part of an internship program focused on AI and Green Technology.
-Applied Natural Language Processing techniques using Python, NLTK, and spaCy to process user input and provide relevant responses.
-Designed the chatbot architecture with intent classification, keyword matching, and contextual replies.
-Integrated the chatbot with a simple web interface for real-time interaction.
-Learned and implemented concepts like tokenization, stemming, lemmatization, and bag-of-words models.
-Gained valuable mentorship and exposure to real-world AI applications.
-
-
-🌐 Web Development Intern – [BLUESTOCK]
-
-Duration: [JUN2025] – [JUL2025]
-
-Location: [Remote]
-
-Description:
-Developed responsive websites using HTML, CSS, JavaScript, and React.js.
-Collaborated with the UI/UX team to improve site design and performance.
-Implemented frontend logic and integrated RESTful APIs for dynamic content rendering.
-Version controlled using Git and pushed updates regularly to GitHub.
 
 ### 📈 GitHub Stats
 
