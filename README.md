@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 
 ### 📫 Connect with Me
 
-<p align="center"> <a href="https://www.linkedin.com/in/areveti-sai-guru-surya-teja-78335a334/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://instagram.com/your-username/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" alt="Instagram" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/areveti-sai-guru-surya-teja-78335a334/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> </p>
+
