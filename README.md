@@ -44,10 +44,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="coding" width="500"/>
 </p>
 ### 🛠️ Skills & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,java,python,c,cpp,figma,aws,vscode,oracle,githubpages,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,java,python,c,cpp,figma,aws,vscode,mysql,postman" />
 </p>
+
 
 
 
