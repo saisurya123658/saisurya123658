@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,java,python,c,cpp,figma,aws,vscode,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,java,python,c,cpp,figma,aws,vscode,mysql,postman,PostgreSQL" />
 </p>
 
 
