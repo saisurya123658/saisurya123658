@@ -30,7 +30,7 @@
 
 ### 📈 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
 
@@ -38,7 +38,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
-</p> -->
+</p>
 
 ### 📫 Connect with Me
 <p align="center">
