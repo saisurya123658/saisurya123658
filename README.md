@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=akofficial10&label=Profile%20Views&color=0e75b6&style=flat)
+</div>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=00FFFF&center=true&vCenter=true&width=1000&lines=MERN+Stack+Developer+%F0%9F%94%A5;AI+%26+ML+Explorer+%F0%9F%A7%90;Building+Real-World+Projects+%F0%9F%92%BB;Temple+Website+Creator+%E2%9B%B0%EF%B8%8F" />
