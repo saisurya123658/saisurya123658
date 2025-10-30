@@ -48,6 +48,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
 </p>
+## 🏆 Hacktoberfest 2025
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+[![Holopin Badges](https://holopin.me/saisurya123658)](https://holopin.io/@saisurya123658)
+
+---
 
 ### 📫 Connect with Me
 <p align="center">
