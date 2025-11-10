@@ -49,8 +49,9 @@
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saisurya123658&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
 </p>
+
 
 ## 🏆 Hacktoberfest 2025
 <p align="center">
