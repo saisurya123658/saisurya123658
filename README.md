@@ -42,12 +42,16 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
-
-
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
 </p>
+
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=palchhinparihar&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
+</p>
+
 ## 🏆 Hacktoberfest 2025
 <p align="center">
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
