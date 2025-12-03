@@ -41,12 +41,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
+</p>
 
-</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 ## GitHub Trophies
 <p align="center">
