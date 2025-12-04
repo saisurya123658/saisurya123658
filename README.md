@@ -75,6 +75,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
+<p align="center">
+  <a href="mailto:saisurya6165@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://saisurya-portfolio.vercel.app//"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&width=600&lines=✨+Thank+You+for+Visiting+✨" alt="Thank You for Visiting" />
