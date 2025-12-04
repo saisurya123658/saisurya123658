@@ -74,11 +74,8 @@
   <a href="https://www.linkedin.com/in/areveti-sai-guru-surya-teja-78335a334/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-</p>
 <p align="center">
   <a href="mailto:saisurya6165@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-<p align="center">
   <a href="https://saisurya-portfolio.vercel.app//"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
