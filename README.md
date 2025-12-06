@@ -41,7 +41,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-master-rstaaq.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
