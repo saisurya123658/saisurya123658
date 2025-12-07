@@ -41,15 +41,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurya123658&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 
