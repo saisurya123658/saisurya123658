@@ -122,7 +122,7 @@
 
 ---
 
-# 📊 **GitHub Stats (Working Version)**
+# 📊 **GitHub Stats 
 
 ### 🔥 GitHub Stats
 <p align="center">
@@ -134,14 +134,14 @@
   <img src="https://streak-stats.demolab.com/?user=saisurya123658&theme=radical" />
 </p>
 
-### 🔥 GitHub Activity Graph (Working Mirror)
+### 🔥 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisurya123658&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies (100% Working)
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-delta.vercel.app/?username=saisurya123658&theme=algolia&margin-w=10" />
