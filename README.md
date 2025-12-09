@@ -108,13 +108,13 @@
 
 - 🌱 I’m currently learning **MERN Stack & AI/ML**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Cloud & Web Development**
-- 📫 Reach me at: **saisurya6165@gmail.com**
-- ⚡ Fun fact: *I create tech content & temple-based digital platforms!*
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB & Cloud**
+- 📫 Email: **saisurya6165@gmail.com**
+- ⚡ Fun fact: *I create temple digital platforms & tech content!*
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,java,python,c,cpp,figma,aws,vscode,mysql,postman,postgresql" />
@@ -122,28 +122,29 @@
 
 ---
 
-## 📊 GitHub Stats (100% Working 🚀)
+# 📊 **GitHub Stats (Working Version)**
 
 ### 🔥 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" />
 </p>
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak (Working Link)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=saisurya123658&theme=radical" />
 </p>
 
-### 🔥 GitHub Activity Graph
+### 🔥 GitHub Activity Graph (Working Mirror)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saisurya123658&theme=tokyo-night&hide_border=true&radius=10" width="95%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies (100% Working)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saisurya123658&theme=algolia&no-frame=false&no-bg=false&margin-w=4" height="170" />
+  <img src="https://github-profile-trophy-delta.vercel.app/?username=saisurya123658&theme=algolia&margin-w=10" />
 </p>
 
 ---
@@ -157,7 +158,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/areveti-sai-guru-surya-teja-78335a334/">
