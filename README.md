@@ -131,7 +131,7 @@
 
 ### 🔥 GitHub Streak 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical&fire=DD2727&ring=DD2727" />
 </p>
 
 
