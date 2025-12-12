@@ -129,10 +129,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical&rank_icon=github" />
 </p>
 
-### 🔥 GitHub Streak 
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 
 
