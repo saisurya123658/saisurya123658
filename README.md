@@ -131,8 +131,9 @@
 
 ### 🔥 GitHub Streak 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical&fire=DD2727&ring=DD2727" />
+  <img src="https://streak-stats.demolab.com?user=saisurya123658&theme=radical" />
 </p>
+
 
 
 
