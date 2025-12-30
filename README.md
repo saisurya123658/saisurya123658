@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
