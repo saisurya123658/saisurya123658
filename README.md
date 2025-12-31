@@ -43,7 +43,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=saisurya123658&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saisurya123658&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saisurya123658&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisurya123658&theme=github_dark)
+
 
 
 
