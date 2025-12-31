@@ -35,6 +35,7 @@
 </p>
 
 ---
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saisurya123658&theme=github_dark)
 
 # 📊 GitHub Stats:
 
