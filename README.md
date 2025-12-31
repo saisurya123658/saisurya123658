@@ -36,7 +36,7 @@
 
 ---
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saisurya123658&theme=github_dark)
-![GitHub 2025 Stats](./stats-2025.svg)
+
 
 # 📊 GitHub Stats:
 
@@ -48,17 +48,6 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisurya123658&theme=github_dark)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurya123658&layout=compact&theme=tokyonight" />
-</p>
 
 
 
