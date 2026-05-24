@@ -40,12 +40,19 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=saisurya123658&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saisurya123658&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=saisurya123658&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saisurya123658&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saisurya123658&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisurya123658&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisurya123658&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saisurya123658&theme=tokyonight" />
+</p>
 
 
 
