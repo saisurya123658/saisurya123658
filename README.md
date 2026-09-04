@@ -156,37 +156,27 @@ I have experience across **full-stack development, backend engineering, REST API
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp" />
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 
 ### Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
 
 ---
 
