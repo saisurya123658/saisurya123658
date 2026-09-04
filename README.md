@@ -167,7 +167,7 @@ I have experience across **full-stack development, backend engineering, REST API
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### Backend
@@ -188,15 +188,6 @@ I have experience across **full-stack development, backend engineering, REST API
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
 </p>
 
-### 🧠 Core Computer Science
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-1F2937?style=for-the-badge" />
-</p>
 ---
 
 # ⭐ Featured Projects
