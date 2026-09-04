@@ -106,7 +106,11 @@
 
  -->
 # Hi 👋, I'm Surya
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
+</p>
 ### Full Stack Developer | Java & MERN | Backend Engineering | Cloud
 
 I'm a **final-year Computer Science and Engineering student** passionate about building scalable web applications, backend systems, and practical software solutions.
@@ -133,26 +137,16 @@ I have experience across **full-stack development, backend engineering, REST API
 * Collaborate using **Git, GitHub, Agile workflows and code reviews**
 
 ---
+<h1 align="center">Repositories to Contribute 🤩</h1>
 
-## 💼 Experience
-
-### Back-End AI Engineering Intern — FlyRank AI
-
-**Jun 2026 – Present · Remote**
-
-* Engineered modular REST APIs using **Node.js and Express.js** for AI-powered services.
-* Reduced integration time by **40%** and minimized code duplication across **5 microservices**.
-* Contributed to backend feature delivery through **Agile sprints, Git, code reviews and CI/CD pipelines**.
-* Focused on production-ready and maintainable backend architecture.
-
-### Full Stack Developer Intern — TechSonIx Solutions
-
-**Nov 2025 – Dec 2025 · Remote**
-
-* Developed and deployed **30+ RESTful APIs** using the MERN Stack, AWS Lambda and API Gateway.
-* Reduced API response time by **35%** while improving scalability for production workloads.
-* Architected a backend metadata layer using **AWS DynamoDB**, achieving **sub-second response times** for workloads of up to 10,000 concurrent users.
-* Designed a real-time chat application using **React.js, WebSockets and MongoDB**, supporting 100+ concurrent users.
+| Repo Name | URL | Tech Stack |
+|-----------|-----|------------|
+| Hacktoberfest 2025 | [Link](https://github.com/saisurya123658/Hacktoberfest2025) | HTML, CSS, JavaScript, Open Source |
+| Hacktoberfest 2025 - 1 | [Link](https://github.com/saisurya123658/Hacktoberfest2025-1) | HTML, CSS, JavaScript |
+| Hacktoberfest 2025 - 2 | [Link](https://github.com/saisurya123658/Hacktoberfest2025-2) | HTML, CSS, JavaScript, Open Source |
+| Projects & Interview Questions | [Link](https://github.com/saisurya123658/Projects-and-Interview-Question-Hacktoberfest2025) | Java, DSA, Interview Preparation |
+| BYAMN Learning | [Link](https://github.com/saisurya123658/BYAMN-Learning) | Learning Resources, Programming |
+| VigyBag | [Link](https://github.com/saisurya123658/VigyBag) | Web Development |
 
 ---
 
@@ -179,6 +173,27 @@ I have experience across **full-stack development, backend engineering, REST API
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
 
 ---
+
+## 💼 Experience
+
+### Back-End AI Engineering Intern — FlyRank AI
+
+**Jun 2026 – Present · Remote**
+
+* Engineered modular REST APIs using **Node.js and Express.js** for AI-powered services.
+* Reduced integration time by **40%** and minimized code duplication across **5 microservices**.
+* Contributed to backend feature delivery through **Agile sprints, Git, code reviews and CI/CD pipelines**.
+* Focused on production-ready and maintainable backend architecture.
+
+### Full Stack Developer Intern — TechSonIx Solutions
+
+**Nov 2025 – Dec 2025 · Remote**
+
+* Developed and deployed **30+ RESTful APIs** using the MERN Stack, AWS Lambda and API Gateway.
+* Reduced API response time by **35%** while improving scalability for production workloads.
+* Architected a backend metadata layer using **AWS DynamoDB**, achieving **sub-second response times** for workloads of up to 10,000 concurrent users.
+* Designed a real-time chat application using **React.js, WebSockets and MongoDB**, supporting 100+ concurrent users.
+
 
 # ⭐ Featured Projects
 
