@@ -111,6 +111,8 @@
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 </p>
+![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+
 Full Stack Developer | Java & MERN | Backend Engineering | Cloud
 
 I'm a **final-year Computer Science and Engineering student** passionate about building scalable web applications, backend systems, and practical software solutions.
@@ -137,7 +139,7 @@ I have experience across **full-stack development, backend engineering, REST API
 * Collaborate using **Git, GitHub, Agile workflows and code reviews**
 
 ---
-<h1 align="center">Repositories to Contribute 🤩</h1>
+<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
 
 | Repo Name | URL | Tech Stack |
 |-----------|-----|------------|
