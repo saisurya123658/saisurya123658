@@ -111,7 +111,9 @@
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 </p>
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saisurya123658&color=red" alt="Profile Views" />
+</p>
 
 Full Stack Developer | Java & MERN | Backend Engineering | Cloud
 
